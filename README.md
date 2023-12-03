@@ -46,21 +46,50 @@ What is 3D printing?
 * [Vase/Potter 3D Modeling Software (only windows)](https://potterdraw.sourceforge.io/download.html)
 * [Slabforge: Design Software for Slab-Based Ceramics](https://handandmachine.org/index.php/2021/10/15/slabforge/)
 
+
+---
+
 **Machines Available**
 
-YARRO! - Open Source Project by MILL & Oficinas do Convento
+**YARRO! - Open Source Project by MILL & OC**
 
-ClayBot - Tronxy 3d Clay Printer
+CURA Machine Settings:
+![YARRO-CFG1](https://hackmd.io/_uploads/BkQR3TtHa.png)
+![YARRO-CFG2](https://hackmd.io/_uploads/HyX0npYHa.png)
 
-Delta Clay - FLSUN Delta SR 3D Printer adapted to Clay printing
+CURA Material for YARRO!:
+![YARRO-CLAY1](https://hackmd.io/_uploads/rync-0KB6.png)
+![YARRO-CLAY2](https://hackmd.io/_uploads/Hyh9ZRtSp.png)
 
-Download Machine configurations & Printing Profiles for Clay 3D Printing
 
-[YARRO! Cura Profile](https://mill.pt/share/YARRO_Cura.zip)
+**Clay BOT - Tronxy 3d Clay Printer** 
 
-[Delta Clay Cura Profile](https://)
+CURA Machine Settings::
+![CLAY-BOT-CFG1](https://hackmd.io/_uploads/Skga0aFSp.png)
+![CLAY-BOT-CFG2](https://hackmd.io/_uploads/ry-V2aKSp.png)
 
-Prusa Slice Profile
+CURA Material for Clay BOT:
+![CLAYBOT1](https://hackmd.io/_uploads/BycsM0KB6.png)
+![CLAYBOT2](https://hackmd.io/_uploads/rkcizAYHa.png)
+
+
+**Delta Clay - FLSUN Delta SR 3D Printer adapted to Clay printing**
+
+CURA Configuration:
+![DELTA-CLAY-CFG1](https://hackmd.io/_uploads/Hkd4l0Krp.png)
+![DELTA-CLAY-CFG2](https://hackmd.io/_uploads/Syu4eAtSp.png)
+
+CURA Material for DELTA CLAY:
+![DELTA1](https://hackmd.io/_uploads/BkQ04RYBp.png)
+![DELTA2](https://hackmd.io/_uploads/BkmCNRtBp.png)
+
+Download CURA Printing Profiles for Clay 3D Printing
+
+[YARRO! Cura Basic PRINTING Profile](https://mill.pt/share/YARRO_Cura.zip)
+
+[Delta Clay Cura Basic PRINTING Profile](https://)
+
+
 
 
 
