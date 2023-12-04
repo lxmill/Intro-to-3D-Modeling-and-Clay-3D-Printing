@@ -54,7 +54,7 @@ What is 3D printing?
 **YARRO! - Open Source Project by MILL & OC**
 
 CURA Machine Settings:
-![YARRO-CFG1](https://hackmd.io/_uploads/BkQR3TtHa.png)
+![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro1.png?raw=true)
 ![YARRO-CFG2](https://hackmd.io/_uploads/HyX0npYHa.png)
 
 CURA Material for YARRO!:
