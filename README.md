@@ -31,9 +31,8 @@ What is 3D printing?
 
 **Inspirations**
 
-[RAP Ceramic House](https://studiorap.nl/Ceramic-House)
-
-
+* [RAP Ceramic House](https://studiorap.nl/Ceramic-House)
+* [Solid Vibrations](https://www.youtube.com/embed/1JjaqKUUMMw)
 
 **Resources**
 * [RepRap WIKI](https://reprap.org/wiki/RepRap)
@@ -42,7 +41,8 @@ What is 3D printing?
 * [Prusa Slicer Download](https://www.prusa3d.com/page/prusaslicer_424/)
 * [An Overview of Ceramic 3D Printing by Jonathan Keep](https://www.youtube.com/embed/Z72X9SqDJ_s)
 * [Jonathan Keep Guide to Clay 3D Printing](https://mill.pt/share/JKeep-Guide_to_Clay_3D_Printing_-_2020.pdf)
-* [Vase/Potter 3D Modeling On-Line](https://www.vasedjinn.com/)
+* [Vasedjinn - Vase/Potter 3D Modeling On-Line](https://www.vasedjinn.com/)
+* [3D Pottery - Vase/Potter 3D Modeling On-Line](http://www.3dpottery.eu/)
 * [Vase/Potter 3D Modeling Software (only windows)](https://potterdraw.sourceforge.io/download.html)
 * [Slabforge: Design Software for Slab-Based Ceramics](https://handandmachine.org/index.php/2021/10/15/slabforge/)
 
