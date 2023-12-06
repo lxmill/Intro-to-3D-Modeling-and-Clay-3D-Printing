@@ -57,31 +57,17 @@ CURA Machine Settings:
 ![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro1.png?raw=true)
 ![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro2.png?raw=true)
 
-CURA Material for YARRO!:
-![YARRO-CLAY1](https://hackmd.io/_uploads/rync-0KB6.png)
-![YARRO-CLAY2](https://hackmd.io/_uploads/Hyh9ZRtSp.png)
-
-
 **Clay BOT - Tronxy 3d Clay Printer** 
 
 CURA Machine Settings::
-![CLAY-BOT-CFG1](https://hackmd.io/_uploads/Skga0aFSp.png)
-![CLAY-BOT-CFG2](https://hackmd.io/_uploads/ry-V2aKSp.png)
-
-CURA Material for Clay BOT:
-![CLAYBOT1](https://hackmd.io/_uploads/BycsM0KB6.png)
-![CLAYBOT2](https://hackmd.io/_uploads/rkcizAYHa.png)
-
+![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/claybot1.png?raw=true)
+![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/claybot2.png?raw=true)
 
 **Delta Clay - FLSUN Delta SR 3D Printer adapted to Clay printing**
 
 CURA Configuration:
-![DELTA-CLAY-CFG1](https://hackmd.io/_uploads/Hkd4l0Krp.png)
-![DELTA-CLAY-CFG2](https://hackmd.io/_uploads/Syu4eAtSp.png)
-
-CURA Material for DELTA CLAY:
-![DELTA1](https://hackmd.io/_uploads/BkQ04RYBp.png)
-![DELTA2](https://hackmd.io/_uploads/BkmCNRtBp.png)
+![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/deltaclay1.png?raw=true)
+![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/deltaclay2.png?raw=true)
 
 Download CURA Printing Profiles for Clay 3D Printing
 
