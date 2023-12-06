@@ -57,12 +57,14 @@ CURA Machine Settings:
 ![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro1.png?raw=true)
 ![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro2.png?raw=true)
 
+---
 **Clay BOT - Tronxy Clay 3D Printer** 
 
 CURA Machine Settings:
 ![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/claybot1.png?raw=true)
 ![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/claybot2.png?raw=true)
 
+---
 **Delta Clay - FLSUN Delta SR 3D Printer adapted to Clay printing**
 
 CURA Configuration:
