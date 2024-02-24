@@ -1,4 +1,4 @@
-# Intro to 3D Modeling and Clay 3D Printing
+# 3D Modeling and Clay 3D Printing
 
 **Workshop Topics**
 
@@ -37,7 +37,7 @@ What is 3D printing?
 **Resources**
 * [RepRap WIKI](https://reprap.org/wiki/RepRap)
 * [Autodesk Tinkercad Portal](https://www.tinkercad.com/)
-* [Ultimaker CURA Software Download](https://ultimaker.com/software/ultimaker-cura/)
+* [Ultimaker CURA Slicer Download](https://ultimaker.com/software/ultimaker-cura/)
 * [Prusa Slicer Download](https://www.prusa3d.com/page/prusaslicer_424/)
 * [An Overview of Ceramic 3D Printing by Jonathan Keep](https://www.youtube.com/embed/Z72X9SqDJ_s)
 * [Jonathan Keep Guide to Clay 3D Printing](https://mill.pt/share/JKeep-Guide_to_Clay_3D_Printing_-_2020.pdf)
