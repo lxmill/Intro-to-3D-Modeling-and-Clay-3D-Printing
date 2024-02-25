@@ -33,6 +33,22 @@ What is 3D printing?
 
 * [RAP Ceramic House](https://studiorap.nl/Ceramic-House)
 * [Solid Vibrations](https://www.youtube.com/embed/1JjaqKUUMMw)
+* [Stacy Jo Scott](https://www.stacyjoscott.com/)
+* [Emerging Objects](http://emergingobjects.com/)
+* [Virginia San Fratello](https://www.instagram.com/vasfsf/)
+* [Ronald Rael](https://www.instagram.com/rrael/)
+* [Tom Lauerman](https://tomlauerman.com/)
+* [Jolie Ngo](https://ngojolie.net/)
+* [Emre Can](https://www.emrecanceramic.com/)
+* [Keith Simpson](https://www.simpsonstudio.us/)
+* [Alterfact](https://www.alterfact.net/)
+* [Nico Conti](https://www.nicoconti.com/)
+* [Heleen Sintobin](https://www.heleensintobin.com/)
+* [Bryan Czibesz](https://bryanczibesz.com/)
+* [Polymorf](https://www.polymorf.se/)
+* [Additive Addicted](http://additiveaddicted.de/)
+* [Bold](http://bold-design.fr/)
+* [Fred Gwatkin](https://www.fredgwatkin.com/)
 
 **Resources**
 * [RepRap WIKI](https://reprap.org/wiki/RepRap)
