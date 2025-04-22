@@ -55,6 +55,7 @@ What is 3D printing?
 * [Autodesk Tinkercad Portal](https://www.tinkercad.com/)
 * [Ultimaker CURA Slicer Download](https://ultimaker.com/software/ultimaker-cura/)
 * [Prusa Slicer Download](https://www.prusa3d.com/page/prusaslicer_424/)
+* [Orca Slicer Download](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0)
 * [An Overview of Ceramic 3D Printing by Jonathan Keep](https://www.youtube.com/embed/Z72X9SqDJ_s)
 * [Jonathan Keep Guide to Clay 3D Printing](https://mill.pt/share/JKeep-Guide_to_Clay_3D_Printing_-_2020.pdf)
 * [Vasedjinn - Vase/Potter 3D Modeling On-Line](https://www.vasedjinn.com/)
