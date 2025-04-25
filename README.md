@@ -2,6 +2,16 @@
 
 **Workshop Topics**
 
+**Clay 3D printing**
+* Slicer software configuration for Clay Printer
+* Slicing the object to be printed in clay
+* Preparing the clay for printing
+* Loading the clay into the 3D Printer
+* Practical 3D printing with clay
+* Printer Preparation for Clay 3D printing
+* Printing practices
+
+
 **Intro to 3D Modeling with TINKERCAD**
 * Navigation in the Work Plan
 * Moving shapes
@@ -19,15 +29,6 @@
 What is 3D printing?
 3D Printing Technologies
 ...
-
-**Clay 3D printing**
-* Slicer software configuration for Clay Printer
-* Slicing the object to be printed in clay
-* Preparing the clay for printing
-* Loading the clay into the 3D Printer
-* Practical 3D printing with clay
-* Printer Preparation for Clay 3D printing
-* Printing practices
 
 **Inspirations**
 
@@ -53,9 +54,9 @@ What is 3D printing?
 **Resources**
 * [RepRap WIKI](https://reprap.org/wiki/RepRap)
 * [Autodesk Tinkercad Portal](https://www.tinkercad.com/)
+* [Orca Slicer Download](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0)
 * [Ultimaker CURA Slicer Download](https://ultimaker.com/software/ultimaker-cura/)
 * [Prusa Slicer Download](https://www.prusa3d.com/page/prusaslicer_424/)
-* [Orca Slicer Download](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.3.0)
 * [An Overview of Ceramic 3D Printing by Jonathan Keep](https://www.youtube.com/embed/Z72X9SqDJ_s)
 * [Jonathan Keep Guide to Clay 3D Printing](https://mill.pt/share/JKeep-Guide_to_Clay_3D_Printing_-_2020.pdf)
 * [Vasedjinn - Vase/Potter 3D Modeling On-Line](https://www.vasedjinn.com/)
@@ -70,20 +71,30 @@ What is 3D printing?
 
 **YARRO! - Open Source Project by MILL & OC**
 
-CURA Machine Settings:
-![yarro_cfg_1](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro1.png?raw=true)
-![yarro_cfg_2](https://github.com/lxmill/Intro-to-3D-Modeling-and-Clay-3D-Printing/blob/main/img/yarro2.png?raw=true)
+Cartesiana
+
+Área: 630x530x600mm | Nozzle: 2, 4, 6mm
+
+**CoreClay - Open Source Based on Creality 7**
+
+Core XY
+
+Área: 260x260x400mm | Nozzle: 1, 2, 3 e 4mm
+
+**Moore1 - Tronxy Clay 3D Printer**
+
+Cartesiana
+
+Área: 180x180x180mm | Nozzle: 2, 4, 6mm
 
 ---
-**Delta Clay - FLSUN Delta SR 3D Printer adapted to Clay printing**
 
-CURA Configuration:
+Machine Settings:
 
-Download CURA Printing Profiles for Clay 3D Printing
+[Orca Printers Preset Bundle](https://mill.pt/share/YARRO_Cura.zip)
 
-[YARRO! Cura Basic PRINTING Profile](https://mill.pt/share/YARRO_Cura.zip)
+---
 
-[Delta Clay Cura Basic PRINTING Profile](https://)
 
 
 
